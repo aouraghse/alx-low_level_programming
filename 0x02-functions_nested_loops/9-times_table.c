@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* main - check the code
+* times_table - check the code
 * Return: Always 0 (Success)
 */
 
