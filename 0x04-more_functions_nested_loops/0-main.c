@@ -4,6 +4,7 @@
 /**
 * main - check the code.
 * Return: Always 0.
+* @c: something
 */
 int main(void)
 {
