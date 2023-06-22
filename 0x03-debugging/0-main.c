@@ -2,6 +2,7 @@
 /**
 * main - Test function for positive or negative
 * Return: 0
+*@i:int to be used
 */
 int main(void)
 {
