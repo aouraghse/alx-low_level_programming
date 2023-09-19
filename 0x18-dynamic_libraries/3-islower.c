@@ -4,7 +4,7 @@
 	/**
 	 * _islower - check if char is lowercase
 	 * @c: is the char to be checked
-	 * Author: Brian Ngugi
+	 * 
 	 * Return: 1 if char is lowercase, otherwise 0.
 	 */
 
